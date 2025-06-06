@@ -1,0 +1,45 @@
+# 🌟 Sobre mim
+
+Oi! Eu sou a Karol, estudante de Engenharia de Software, apaixonada por tecnologia com foco em Backend com Python, FastAPI e Inteligência Artificial. Também tenho um pézinho em Cloud (AWS, Azure e GCP) e tô sempre em busca de novos desafios que me tirem da zona de conforto.
+
+### 📚 Meus estudos recentes
+
+- Bootcamp Santander + DIO de Python Backend (FastAPI, Docker, MongoDB, SQL/NoSQL)
+- Curso de Product Design e Figma (Cubos Academy)
+- Automatização de testes com Playwright (tenho repo aqui no GitHub com Gherkin)
+- Mentorias e voluntariados em Python
+
+---
+
+## 👩‍💻 Sobre esse repositório
+
+Esse repositório é um fork da comunidade [NOME DA COMUNIDADE], onde desenvolvemos [breve explicação do projeto original, tipo: "uma API simples para cadastro de livros", ou "um sistema de login com autenticação"].
+
+### 🚧 O que eu fiz aqui:
+
+- Adaptei [nome do arquivo, feature ou componente] para [descreve o que foi feito: exemplo: usar FastAPI, melhorar estrutura de diretórios, corrigir bug de autenticação...]
+- Criei um componente chamado [X] com foco em [Y]
+- Fiz ajustes na documentação para facilitar o entendimento
+
+> **PS:** Se quiser testar o projeto localmente, basta seguir os passos abaixo 👇
+
+---
+
+### ⚙️ Como rodar localmente
+
+```bash
+# clone o projeto
+git clone https://github.com/seu-usuario/seu-fork.git
+
+# entre na pasta
+cd seu-fork
+
+# (opcional) crie um virtualenv
+python -m venv venv
+source venv/bin/activate  # ou .\venv\Scripts\activate no Windows
+
+# instale as dependências
+pip install -r requirements.txt
+
+# rode o projeto
+uvicorn main:app --reload
